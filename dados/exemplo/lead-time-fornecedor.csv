@@ -1,0 +1,31 @@
+sku,item,fornecedor,lead_time_dias,frequencia_entrega_dias,pedido_minimo,validade_dias
+SKU-1001,Hamburguer bovino 180g cx 24un,Fornecedor 1 - Industria de Carnes,3,7,17,90
+SKU-1002,File de frango congelado 2kg,Fornecedor 1 - Industria de Carnes,3,7,28,120
+SKU-1003,Bacon fatiado 1kg,Fornecedor 1 - Industria de Carnes,4,7,12,60
+SKU-1004,Linguica toscana 3kg,Fornecedor 1 - Industria de Carnes,4,7,9,45
+SKU-2001,Pao de hamburguer pct 12un,Fornecedor 2 - Panificadora,1,2,44,7
+SKU-2002,Pao brioche pct 12un,Fornecedor 2 - Panificadora,1,2,19,7
+SKU-3001,Queijo cheddar fatiado 1kg,Fornecedor 3 - Laticinios,2,7,22,60
+SKU-3002,Queijo mussarela 5kg,Fornecedor 3 - Laticinios,2,7,14,45
+SKU-3003,"Requeijao cremoso 1,5kg",Fornecedor 3 - Laticinios,2,7,7,90
+SKU-3004,Manteiga 500g,Fornecedor 3 - Laticinios,2,7,10,120
+SKU-4001,"Batata pre-frita congelada 2,5kg",Fornecedor 4 - Distribuidora,5,14,37,365
+SKU-4002,Anel de cebola congelado 1kg,Fornecedor 4 - Distribuidora,5,14,6,365
+SKU-4003,Nuggets congelado 2kg,Fornecedor 4 - Distribuidora,5,14,8,365
+SKU-5001,Oleo de soja 900ml cx 20un,Fornecedor 4 - Distribuidora,5,14,5,365
+SKU-5002,"Ketchup galao 3,2kg",Fornecedor 4 - Distribuidora,5,14,4,365
+SKU-5003,Maionese galao 3kg,Fornecedor 4 - Distribuidora,5,14,5,365
+SKU-5004,Mostarda galao 3kg,Fornecedor 4 - Distribuidora,5,14,2,365
+SKU-5005,Sal refinado 1kg,Fornecedor 4 - Distribuidora,5,14,2,365
+SKU-6001,Alface americana un,Fornecedor 5 - Hortifruti,1,2,52,5
+SKU-6002,Tomate salada kg,Fornecedor 5 - Hortifruti,1,2,39,7
+SKU-6003,Cebola kg,Fornecedor 5 - Hortifruti,1,3,24,20
+SKU-6004,Picles fatiado 2kg,Fornecedor 5 - Hortifruti,3,7,4,180
+SKU-7001,Refrigerante lata cx 24un,Fornecedor 6 - Bebidas,2,7,19,180
+SKU-7002,Refrigerante 2L cx 6un,Fornecedor 6 - Bebidas,2,7,8,180
+SKU-7003,Suco caixinha cx 12un,Fornecedor 6 - Bebidas,2,7,6,180
+SKU-7004,Agua mineral 500ml cx 12un,Fornecedor 6 - Bebidas,2,7,11,365
+SKU-8001,Embalagem sanduiche pct 100un,Fornecedor 7 - Embalagens,7,14,26,999
+SKU-8002,Copo 400ml pct 50un,Fornecedor 7 - Embalagens,7,14,16,999
+SKU-8003,Sacola delivery pct 100un,Fornecedor 7 - Embalagens,7,14,13,999
+SKU-8004,Guardanapo pct 1000un,Fornecedor 7 - Embalagens,7,14,8,999
